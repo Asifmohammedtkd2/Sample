@@ -1,2 +1,2 @@
-print("Hello")
-print("World")
+import utils
+utils.printer()
